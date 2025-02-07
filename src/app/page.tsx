@@ -6,7 +6,7 @@ import { ThemeProvider } from "@material-tailwind/react";
 export default function Home() {
   return (
     <ThemeProvider>
-      <div className="bg-[#010008] h-screen">
+      <div className="bg-[#010008]">
         <div className="absolute flex top-[-10%] items-center justify-center w-full blur-[200px] opacity-25">
             <div className="backdrop-blur-[20rem] z-0"></div>
             <div className="bg-[#5B8FB9] w-4/5 h-[394px] rounded-[50%] blur-3xl -z-10"></div>
