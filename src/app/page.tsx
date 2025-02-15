@@ -3,6 +3,10 @@ import NavbarComponent from "./Components/Navbar";
 import Heroes from "./Components/Heroes";
 import { ThemeProvider } from "@material-tailwind/react";
 import AboutSection from "./Components/About";
+import SkillSection from "./Components/Skills";
+import ProjectSection from "./Components/Projects";
+import TestimoniSection from "./Components/Testimoni";
+import FooterComponent from "./Components/Footer";
 
 export default function Home() {
   return (
@@ -18,6 +22,13 @@ export default function Home() {
         <Heroes />
         <AboutSection />
       </div>
+
+
+      <SkillSection />
+      <ProjectSection />
+      <TestimoniSection />
+
+      <FooterComponent />
     </ThemeProvider>
   );
 }
