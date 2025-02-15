@@ -24,7 +24,7 @@ function Heroes() {
         <p className='mt-6 text-center text-base'>Building seamless web experiences with clean code & modern technology.</p>
 
         <div className="flex flex-col md:flex-row mt-9 gap-4">
-          <div className="flex justify-center items-center px-8 py-4 bg-[#5454C5] drop-shadow-xs hover:drop-shadow-sm hover:bg-[#44448F] cursor-pointer rounded-3xl text-white">
+          <div className="flex justify-center items-center px-8 py-4 bg-[#5845FB] drop-shadow-xs hover:drop-shadow-sm hover:bg-[#5454C5] cursor-pointer rounded-3xl text-white">
             <a href="">SEE MY WORK</a>
           </div>
           <div className="flex justify-center items-center px-8 py-4 border-[#5454C5] drop-shadow-xs hover:drop-shadow-sm hover:bg-[#44448F] border-solid border-2 rounded-3xl text-white">
